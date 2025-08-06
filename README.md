@@ -1,4 +1,4 @@
-<p align="center">
+*<p align="center">*
 <img src="https://static.wikia.nocookie.net/elevator-hitch/images/9/9f/Protag_Coworker_Chibis.png/revision/latest/smart/width/250/height/250?cb=20230912021324" width="250">
 </p>
 <p align="center">
