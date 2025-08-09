@@ -10,3 +10,5 @@
  <p align="center">
  english isnt my first language, so correct me if I say something wrong
 </p>
+
+i also make a lot of rude jokes, pls lmk if i made u upset
