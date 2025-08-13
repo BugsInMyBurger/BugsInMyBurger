@@ -16,3 +16,5 @@
 </p>
  <p align="center">
 i also make a lot of rude jokes, pls lmk if i made u upset
+<div id="header" align="center">
+  <img src="https://avatars.mds.yandex.net/i?id=9638c065c8f39bd49d2c7c0c971419c6_l-4344700-images-thumbs&n=33&w=722&h=720" width="100"/>
