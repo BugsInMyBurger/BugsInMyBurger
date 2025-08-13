@@ -1,7 +1,10 @@
-<div id="header" align="center">
+    _ . . . . . . . ︿ 🍽️ ︿ . . . . . . . _ 
+
+  
+  <div id="Header" align="center">   
   <img src="https://media.tenor.com/Ik2fByqPjugAAAAm/silli-silly.webp" width="50"/>
  <div id="Badges" align="center"> 
-<img src="https://komarev.com/ghpvc/?username=BugsInMyBurger&label=Dishes+prepared&style=for-the-badge&color=800000" alt=""/> 
+<img src="https://komarev.com/ghpvc/?username=BugsInMyBurger&label=🍴&style=for-the-badge&color=800000" alt=""/> 
 
   <img src="https://static.wikia.nocookie.net/elevator-hitch/images/9/9f/Protag_Coworker_Chibis.png/revision/latest/smart/width/250/height/250?cb=20230912021324" width="250">
 </p>
