@@ -38,3 +38,43 @@ stamps!!! (i'll add more someday)
   <img src="https://img1.picmix.com/output/stamp/thumb/0/8/5/5/2325580_f3a87.png" width="80"/>
   <img src="https://media.tenor.com/zL2hT7ttZsAAAAA1/dead-plate-vincent-charboneau.webp" width="80"/>
   <img src="https://media.tenor.com/6uMz71iGeiEAAAAm/elevator-hitch-elevator-hitch-protagonist.webp" width="80"/>
+  <img src="https://i.pinimg.com/736x/94/1a/fa/941afabada0a96d61c320d3910fbc795.jpg" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/normal/8/3/6/9/2619638_a2137.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/3/3/2/1/2401233_a14ff.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/5/2/2/3/2603225_46b69.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/4/6/5/9/2659564_d184f.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/0/0/3/8/2628300_a342a.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/9/4/1/4/2654149_96db4.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/5/8/5/0/1740585_c82a5.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/9/1/2/4/2474219_bc43d.jpg" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/5/0/7/0/2340705_539bb.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/0/4/4/9/2489440_dc594.jpg" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/2/0/2/8/2508202_8c3f2.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/6/2/3/0/2570326_f1ce0.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/1/7/5/5/2325571_b5ebc.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/1/1/2/3/2783211_c3da0.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/1/3/8/4/2754831_34d2c.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/3/5/8/6/2776853_4b28d.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/3/8/4/2/2242483_edeb2.jpg" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/1/1/6/9/2519611_707cf.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/3/2/5/5/2805523_29bf8.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/0/9/8/6/2496890_e0c39.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/1/7/2/1/2751271_ceebe.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/9/8/2/3/2783289_81eae.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/5/5/2/3/2783255_5ff74.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/4/3/2/9/2809234_bd97d.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/8/6/2/5/2755268_1cebf.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/1/7/4/6/2626471_9031a.jpg" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/5/0/8/8/2538805_c2f1b.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/4/0/2/1/2401204_dbb92.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/9/3/0/5/2805039_ec8ab.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/4/4/5/8/2678544_dbb5a.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/3/8/8/8/2538883_93504.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/0/1/3/1/2541310_4deb5.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/3/7/5/5/2325573_5894d.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/1/7/9/0/2750971_a0f45.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/5/4/6/5/2535645_1de95.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/4/2/0/8/2708024_f4909.png" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/6/3/9/0/2620936_94824.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/5/0/2/0/2620205_fc1d4.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/8/4/9/3/2623948_d2c7a.jpg" width="80"/>
