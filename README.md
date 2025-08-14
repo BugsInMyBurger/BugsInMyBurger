@@ -83,3 +83,8 @@ stamps!!! (i'll add more someday)
   <img src="https://img1.picmix.com/output/stamp/thumb/5/7/0/4/2624075_d9597.png" width="80"/>
   <img src="https://img1.picmix.com/output/stamp/thumb/9/7/5/1/2671579_f6b5e.gif" width="80"/>
   <img src="https://img1.picmix.com/output/stamp/thumb/3/9/0/8/2668093_16f3c.gif" width="80"/>
+  <img src="https://img1.picmix.com/output/stamp/thumb/5/3/8/4/2754835_edfd3.gif" width="80"/>
+<img src="https://img1.picmix.com/output/stamp/thumb/7/4/2/3/2783247_d2233.png" width="80"/>
+<img src="https://img1.picmix.com/output/stamp/thumb/7/7/2/3/2583277_fdea2.gif" width="80"/>
+<img src="https://img1.picmix.com/output/stamp/thumb/3/6/5/8/2308563_a8b05.png" width="80"/>
+<img src="https://img1.picmix.com/output/stamp/thumb/7/1/7/9/2619717_25c20.gif" width="80"/>
