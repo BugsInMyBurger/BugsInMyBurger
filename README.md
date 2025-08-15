@@ -9,7 +9,7 @@
  <div id="Badges" align="center"> 
 <img src="https://komarev.com/ghpvc/?username=BugsInMyBurger&label=rats&style=for-the-badge&color=90845B&background=90845B"/>
 
-  <img src="https://static.wikia.nocookie.net/elevator-hitch/images/9/9f/Protag_Coworker_Chibis.png/revision/latest/smart/width/250/height/250?cb=20230912021324" width="250">
+  <img src="https://files.catbox.moe/ba4pld.png" width="250">
 </p>
 <p align="center">
 <img src="https://media.tenor.com/8vassvAZWlQAAAAm/blinkies.webp" width="550">
