@@ -94,6 +94,13 @@ stamps/blinkies!!!<img src="https://media.tenor.com/51qKk_jSjiEAAAAm/dead-plate-
 <img src="https://media.tenor.com/6tkPtHB7kukAAAAm/kasane-teto-teto-kasane.webp" width="80"/>
 <img src="https://media.tenor.com/JvrDPjyjPW8AAAAm/bread-stamp.webp" width="80"/>
 <img src="https://media.tenor.com/ghmbmxI7-AUAAAAm/blinkies.webp" width="80"/>
+<img src="https://files.catbox.moe/6i2q8u.png" width="80"/>
+<img src="https://files.catbox.moe/g70j1d.png" width="80"/>
+<img src="https://files.catbox.moe/hed9a6.png" width="80"/>
+<img src="https://files.catbox.moe/iorj45.png" width="80"/>
+<img src="https://files.catbox.moe/x08xox.png" width="80"/>
+<img src="https://files.catbox.moe/5trdmr.png" width="80"/>
+<img src="https://files.catbox.moe/8lzapq.png" width="80"/>
 
 <div id="header" align="center">
 <img src="https://media.tenor.com/CetOHN4ZElYAAAAm/blinkie-blinkies.webp" width="250"/>
