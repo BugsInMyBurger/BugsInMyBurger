@@ -28,7 +28,8 @@ i also make a lot of rude jokes, pls lmk if i made u upset
     <img src="https://media.tenor.com/8vassvAZWlQAAAAm/blinkies.webp" width="550">
 </p>
 
-stamps!!! (i'll add more someday)
+stamps/blinkies!!!<img src="https://media.tenor.com/51qKk_jSjiEAAAAm/dead-plate-rody-lamoree.webp" width="25"/>
+(i'll add more someday)
 
 <div id="header" align="center">
   
@@ -88,3 +89,32 @@ stamps!!! (i'll add more someday)
 <img src="https://img1.picmix.com/output/stamp/thumb/7/7/2/3/2583277_fdea2.gif" width="80"/>
 <img src="https://img1.picmix.com/output/stamp/thumb/3/6/5/8/2308563_a8b05.png" width="80"/>
 <img src="https://img1.picmix.com/output/stamp/thumb/7/1/7/9/2619717_25c20.gif" width="80"/>
+<img src="https://media.tenor.com/7IQ0lpz2cxIAAAAm/fish-stamp.webp" width="80"/>
+<img src="https://media.tenor.com/HhNYqleB4zIAAAAm/stamp-cat.webp" width="80"/>
+<img src="https://media.tenor.com/6tkPtHB7kukAAAAm/kasane-teto-teto-kasane.webp" width="80"/>
+<img src="https://media.tenor.com/JvrDPjyjPW8AAAAm/bread-stamp.webp" width="80"/>
+<img src="https://media.tenor.com/ghmbmxI7-AUAAAAm/blinkies.webp" width="80"/>
+
+<div id="header" align="center">
+<img src="https://media.tenor.com/CetOHN4ZElYAAAAm/blinkie-blinkies.webp" width="250"/>
+<img src="https://media.tenor.com/WkFpkcCorhoAAAA1/computer-love-my-computer.webp" width="250"/>
+<img src="https://media.tenor.com/W88gaO5uZa0AAAA1/online-friends.webp" width="250"/>
+<img src="https://media.tenor.com/pA9iecx6N4kAAAA1/forsaken-roblox-forsaken.webp" width="250"/>
+<img src="https://media.tenor.com/JmA6fyxDNe4AAAA1/blinkie-blinkies.webp" width="250"/>
+<img src="https://media.tenor.com/ud25rbgCcIkAAAA1/blinkies-blinkie.webp" width="250"/>
+<img src="https://media.tenor.com/upQoFhnEAxoAAAA1/willwood-blinkie.webp" width="250"/>
+<img src="https://media.tenor.com/yq3PWUlXrUsAAAA1/blinkie-men.webp" width="250"/>
+<img src="https://media.tenor.com/HU2c-mTpglwAAAA1/blinkie.webp" width="250"/>
+<img src="https://media.tenor.com/9n6F1ottI18AAAA1/alpha-male-blinkie.webp" width="250"/>
+<img src="https://media.tenor.com/7MGO8KB1kO0AAAA1/pan-pride-blinkie.webp" width="250"/>
+<img src="https://media.tenor.com/8IfHzg7WP90AAAAm/no-kitty.webp" width="250"/>
+<img src="https://media.tenor.com/Kr061QbR_LYAAAA1/blinkies.webp" width="250"/>
+<img src="https://media.tenor.com/G1DOFI1rfs4AAAA1/blinkies-blinkie.webp" width="250"/>
+<img src="https://media.tenor.com/J5NQvXUoaQwAAAA1/tv-girl-blinkie.webp" width="250"/>
+<img src="https://media.tenor.com/dYoTuoYrF8AAAAA1/party-noob-roblox.webp" width="250"/>
+<img src="https://media.tenor.com/nw4GIwLEPiQAAAA1/ms-paint-blinkie.webp" width="250"/>
+<img src="https://media.tenor.com/sP_HgZ567tQAAAA1/blinkie.webp" width="250"/>
+<img src="https://media.tenor.com/jcJwaTcpDxEAAAA1/blinkie.webp" width="250"/>
+<img src="https://media.tenor.com/sP9xr7_jo1YAAAA1/blinkie.webp" width="250"/>
+<img src="https://media.tenor.com/943oQSKGGvgAAAA1/black-piano.webp" width="250"/>
+<img src="https://media.tenor.com/B-UplAxsvxoAAAA1/blinkies.webp" width="250"/>
