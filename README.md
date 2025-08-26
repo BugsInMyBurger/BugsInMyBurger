@@ -5,10 +5,10 @@
 
   
   <div id="Header" align="center">   
-  <img src="https://media.tenor.com/Ik2fByqPjugAAAAm/silli-silly.webp" width="50"/>
+  <img src="https://media.tenor.com/CJczX5W5NjIAAAAm/rataldo-rata.webp" width="50"/>
  <div id="Badges" align="center"> 
-<img src="https://komarev.com/ghpvc/?username=BugsInMyBurger&label=rats&style=for-the-badge&color=90845B&background=90845B"/>
-<img src="https://media.tenor.com/51qKk_jSjiEAAAAm/dead-plate-rody-lamoree.webp" width="25"/>
+<img src="https://komarev.com/ghpvc/?username=BugsInMyBurger&label=rats&style=for-the-badge&color=90845B&background=90845B" width="120"/>
+<img src="https://media.tenor.com/51qKk_jSjiEAAAAm/dead-plate-rody-lamoree.webp" width="35"/>
   <img src="https://files.catbox.moe/ba4pld.png" width="250">
 </p>
 <p align="center">
