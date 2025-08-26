@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=I'll+break+your+bones+;With+all+the+love+I+carry;Keep+you+close;And+one+day+we'll+get+married;+&color=ffffff&background=90845B&" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=I'll+break+your+bones+;With+all+the+love+I+carry;Keep+you+close;And+one+day+we'll+get+married.;Break+your+bones;With+all+the+love+I+carry;Keep+you+close;And+one+day+we'll+get+married.;+&color=ffffff&background=90845B&" alt="Typing SVG" />
    
     _ . . . . . . . ︿ ✂️ ︿ . . . . . . . _ 
 
