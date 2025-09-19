@@ -18,7 +18,7 @@
 </p>
  <p align="center">
   i like to listen, but I don't know how to answer properly-
- </p>
+  </p>
  <p align="center">
  english isnt my first language, so correct me if I say something wrong
 </p>
@@ -53,3 +53,8 @@ i also make a lot of rude jokes, pls lmk if i made u upset
 <img src="https://media.tenor.com/Kr061QbR_LYAAAA1/blinkies.webp" width="250"/>
 <img src="https://media.tenor.com/nw4GIwLEPiQAAAA1/ms-paint-blinkie.webp" width="250"/>
 <img src="https://media.tenor.com/943oQSKGGvgAAAA1/black-piano.webp" width="250"/>
+   
+  <div id="header" align="center">
+<img
+src="https://media1.tenor.com/m/lBMNhIVOaP8AAAAC/vincent-charbonneau-vincent-dead-plate.gif"
+     width="55"/>
