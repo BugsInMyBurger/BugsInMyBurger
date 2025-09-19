@@ -6,13 +6,15 @@
   
   <div id="Header" align="center">   
   <img src="https://media.tenor.com/CJczX5W5NjIAAAAm/rataldo-rata.webp" width="50"/>
- <div id="Badges" align="center"> 
+ <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=BugsInMyBurger&label=rats&style=for-the-badge&color=90845B&background=90845B" width="120"/>
 <img src="https://media.tenor.com/51qKk_jSjiEAAAAm/dead-plate-rody-lamoree.webp" width="35"/>
-  <img src="https://files.catbox.moe/ba4pld.png" width="250">
+ </p>
+  
+   <img src="https://files.catbox.moe/ba4pld.png" width="300">
 </p>
 <p align="center">
-<img src="https://media.tenor.com/8vassvAZWlQAAAAm/blinkies.webp" width="550">
+<img src="https://media.tenor.com/8vassvAZWlQAAAAm/blinkies.webp" width="250">
 </p>
  <p align="center">
   i like to listen, but I don't know how to answer properly-
@@ -25,7 +27,7 @@ i also make a lot of rude jokes, pls lmk if i made u upset
 <img src="https://media.tenor.com/Qq-xz_yfGfIAAAAm/elevator-hitch-elevator-hitch-game.webp" width="25"/>
    
   <p aligh="center">
-    <img src="https://media.tenor.com/8vassvAZWlQAAAAm/blinkies.webp" width="550">
+    <img src="https://media.tenor.com/8vassvAZWlQAAAAm/blinkies.webp" width="250">
 </p>
 
 <div id="header" align="center">
