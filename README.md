@@ -17,14 +17,16 @@
 <img src="https://media.tenor.com/8vassvAZWlQAAAAm/blinkies.webp" width="250">
 </p>
  <p align="center">
-  i like to listen, but I don't know how to answer properly-
+  <img src="https://img1.picmix.com/output/stamp/thumb/3/6/1/9/2339163_120da.gif" width="20"/>
+   i like to listen, but I don't know how to answer properly-
   </p>
  <p align="center">
- english isnt my first language, so correct me if I say something wrong
+ <img src="https://media.tenor.com/Qq-xz_yfGfIAAAAm/elevator-hitch-elevator-hitch-game.webp" width="25"/>
+   english isnt my first language, so correct me if I say something wrong
 </p>
  <p align="center">
-i also make a lot of rude jokes, pls lmk if i made u upset
-<img src="https://media.tenor.com/Qq-xz_yfGfIAAAAm/elevator-hitch-elevator-hitch-game.webp" width="25"/>
+<img src="https://img1.picmix.com/output/stamp/thumb/4/0/7/5/2825704_35777.gif" width="20">
+   i also make a lot of rude jokes, pls lmk if i made u upset
    
   <p aligh="center">
     <img src="https://media.tenor.com/8vassvAZWlQAAAAm/blinkies.webp" width="250">
