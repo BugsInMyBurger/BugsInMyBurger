@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=I+wanna+be+your+boyfriend;I+wanna+be+your+boyfriend!!;I+wanna+go+on+walks+with+you;I+wanna+have+long+talks+with+you;You+can+be+my+boyfriend;You+can+be+my+boyfriend!!;I'd+complement+you+frequently;I+wanna+treat+you+decently+^_^;&color=ffffff&background=90845B&" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=2000&pause=980&center=true&vCenter=true&width=600&lines=I+wanna+be+your+boyfriend;I+wanna+be+your+boyfriend!!;I+wanna+go+on+walks+with+you;I+wanna+have+long+talks+with+you;You+can+be+my+boyfriend;You+can+be+my+boyfriend!!;I'd+complement+you+frequently;I+wanna+treat+you+decently+^_^;&color=ffffff&background=90845B&" alt="Typing SVG" />
    
-    _ . . . . . . . ︿ ✂️ ︿ . . . . . . . _ 
+                 ✃𓄧꒷꒦                            might be a little sloppy on PC („•_•)
 
   
   <div id="Header" align="center">   
