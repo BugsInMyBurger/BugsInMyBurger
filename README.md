@@ -62,6 +62,6 @@ src="https://media1.tenor.com/m/lBMNhIVOaP8AAAAC/vincent-charbonneau-vincent-dea
      width="55"/>
 
   
-  <h6 align>
+<br> <sup>
 might be a little sloppy on PC ( „ •_•)
 
