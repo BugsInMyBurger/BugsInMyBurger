@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=2000&pause=980&center=true&vCenter=true&width=600&lines=███+██████;&color=ffffff&background=90845B&" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=2500&pause=250&center=true&vCenter=true&width=600&lines=я+помню+твой+взгляд;твои+нежные+руки;твой+дивный+наряд;и+тот+проклятый+день.;.+.+.;&color=ffffff&background=90845B&" alt="Typing SVG" />
    
     ✃𓄧꒷꒦  
 
